@@ -1,11 +1,11 @@
 <?php
-$PageTitle="Bios";
+$PageTitle="Reference";
 
 include_once('header.php');
 ?>
 
 <? # Add custom HTML content below this line ?>
-<h1>Biographies</h1>
+<h1>Reference</h1>
 
 <? # Do not change things below this line ?>
 <?
