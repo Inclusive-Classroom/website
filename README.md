@@ -37,6 +37,10 @@ git checkout -b <name-of-feature>
 
 #### Creating a pull request
 
+**Note:** make sure you have added the files and done a `git commit` before trying to push!
+**Another Note: Never** add your IDE's configuration files to the repo! This will make life very
+difficult for your fellow developers! These might be in an .idea or .vs_code folder.
+
 * Push the code to the repo
 ```shell script
 # first time for the branch
