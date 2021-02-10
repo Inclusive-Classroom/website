@@ -1,6 +1,7 @@
 # Gold Team Spring 2021 Website
 
 ## Team Members
+
  * Colton Hurst
  * Dalton Hanbury
  * Grant Ralls
