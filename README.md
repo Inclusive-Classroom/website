@@ -1,5 +1,7 @@
 # Gold Team Spring 2021 Website
 
+![](https://github.com/randyL78/CS410_Team_Gold/workflows/CI/badge.svg)
+
 ## Team Members
 
  * Colton Hurst
