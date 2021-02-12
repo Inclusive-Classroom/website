@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - uses: webfactory/ssh-agent@v0.4.1
+        with:
+          ssh-private-key: ${{ secrets.KEY_TO_PUSH }}
+      - name: Run ssh-agent in the build environment
+        run: rsync -avzP -e "ssh -o StrictHostKeyChecking=no" --exclude=".[!.]*" ./ 410gold@linux.cs.odu.edu:/home/410gold/secure_html
