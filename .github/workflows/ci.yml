@@ -17,3 +17,4 @@ jobs:
           ssh-private-key: ${{ secrets.KEY_TO_PUSH }}
       - name: Run ssh-agent in the build environment
         run: rsync -avzP -e "ssh -o StrictHostKeyChecking=no" --exclude=".[!.]*" ./ 410gold@linux.cs.odu.edu:/home/410gold/secure_html
+        
