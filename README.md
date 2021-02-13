@@ -11,6 +11,13 @@
  * **Randy Layne**
  * **Travis Bennett**
  
+ ## Resources:
+ 
+ * [Live site](https://www.cs.odu.edu/~410gold/)
+ * [Trello](https://trello.com/b/YDrIqIJY/cs-410-team-gold)
+ * [Discord](https://discord.com/channels/808472157586849823/808472157586849826)
+ * [Course Outline](https://www.cs.odu.edu/~tkennedy/cs410/s21/Directory/outline/)
+ 
  ## Contribution instructions
  
  Instructions for contributing to the website. Especially for those not as familiar with Git. 
