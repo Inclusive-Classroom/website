@@ -4,12 +4,12 @@
 
 ## Team Members
 
- * Colton Hurst
- * Dalton Hanbury
- * Grant Ralls
- * Greg Hubbard
- * Randy Layne
- * Travis Bennett
+ * **Colton Hurst**
+ * **Dalton Hanbury**
+ * **Grant Ralls**
+ * **Greg Hubbard**
+ * **Randy Layne**
+ * **Travis Bennett**
  
  ## Contribution instructions
  
