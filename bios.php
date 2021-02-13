@@ -8,11 +8,11 @@ include_once('header.php');
 <h1>Biographies</h1>
 
 <ul>
+    <li>Colton Hurst</li>
     <li>Dalton Hanbury</li>
     <li>Grant Ralls</li>
-    <li>Randy Lane</li>
-    <li>Colton Hurst</li>
     <li>Greg Hubbard</li>
+    <li>Randy Layne</li>
     <li>Travis Bennett</li>
 </ul>
 
