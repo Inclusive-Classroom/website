@@ -2,6 +2,18 @@
 
 ![](https://github.com/randyL78/CS410_Team_Gold/workflows/CI/badge.svg)
 
+## Table of Contents
+ * [Team Members](#team-members)
+ * [Resources](#resources)
+ * [Contributions Instructions](#contribution-instructions)
+    * [Creating a local copy of the repository](#creating-a-local-copy-of-the-repository)
+    * [Working on a new feature](#working-on-a-new-feature)
+        * [Create a new working branch](#create-a-new-working-branch)
+        * [Making Changes](#making-changes)
+        * [Creating a pull request](#creating-a-pull-request)
+        * [Code Review](#code-review)
+        * [Deployment](#deployment)
+
 ## Team Members
 
  * **Colton Hurst**
@@ -24,11 +36,13 @@
  Making the assumption that everyone is familiar with using the command line to navigate to 
  the project home directory. All commands are assuming the Bash shell. Other shells are similar.
  
- ###  Creating a local copy of the repository.
+ ###  Creating a local copy of the repository
+ 
+ **Note:** Before you can 
  
  Navigate to the directory you want the repository to be downloaded to.
  ```shell script
-git clone https://github.com/randyL78/CS410_Team_Gold.git
+git clone git@github.com:randyL78/CS410_Team_Gold.git
 ```
 
 ### Working on a new feature
@@ -43,6 +57,19 @@ git clone https://github.com/randyL78/CS410_Team_Gold.git
 git checkout master
 git pull
 git checkout -b <name-of-feature>
+```
+
+#### Making changes
+
+Once you make changes to the files in a branch, you will need to add them to Git staging and then commit them.
+```bash
+# add individual file
+git add <path/filename>
+# add all new and modified files
+git add *
+
+# commit the changes
+git commit -m "A declarative message describing what the commit does"
 ```
 
 #### Creating a pull request
