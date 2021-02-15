@@ -16,7 +16,11 @@ include_once('header.php');
      Nauticus in downtown Norfolk as a Museum Educator. When he's not doing 
      classwork or working at Nauticus, he's usually playing airsoft with his team
       or building models.</li>
-    <li><h3>Grant Ralls</h3></li>
+    <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810730405702795274/Screenshot_20210214-2328373.png" alt="Grant_Img" style="width:200px;height:200px;">
+    <h3>Grant Ralls</h3>
+    Grant Ralls is a Computer Science student at Old Dominion University and
+     Software Engineer for Ferguson Enterprises. Outside of technology he enjoys 
+     reading and listening to music.</li>
     <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810720680604991538/GregPFP.png" alt="Greg_Img" style="width:200px;height:200px;">
     <h3>Greg Hubbard</h3>Gregory Hubbard is a 4th year computer science student
      with a passion for learning. Currently, he works as an undergraduate research 
