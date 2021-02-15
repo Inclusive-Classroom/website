@@ -17,7 +17,8 @@ include_once('header.php');
      classwork or working at Nauticus, he's usually playing airsoft with his team
       or building models.</li>
     <li><h3>Grant Ralls</h3></li>
-    <li><h3>Greg Hubbard</h3></li>
+    <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810720680604991538/GregPFP.png" alt="Greg_Img" style="width:200px;height:200px;">
+    <h3>Greg Hubbard</h3></li>
     <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810583547353366558/Treehouse_FSJS_Profile_crop.jpg" alt="Randy_Img" style="width:200px;height:200px;">
     <h3>Randy Layne</h3>
     Randy Layne is a linked Bachelor/Master Computer Science
