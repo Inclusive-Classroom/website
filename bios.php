@@ -8,7 +8,11 @@ include_once('header.php');
 <h1>Biographies</h1>
 
 <ul>
-<li><h3>Colton Hurst</h3></li>
+    <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810743154252054588/Colton.jpg" alt="Colton_Img" style="width:200px;height:200px;">
+    <h3>Colton Hurst</h3>
+    Colton Hurst is a senior at ODU, completing his Computer Science degree 
+    while working full time as a software engineer at PDI Software. In his scarce 
+    free time he enjoys Rust programming, working out, and cooking tasty food.</li>
     <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810702556606496768/IMG-4434_square.jpg" alt="Dalton_Img" style="width:200px;height:200px;">
     <h3>Dalton Hanbury</h3>
     Dalton Hanbury is a Third year student at ODU studying
@@ -30,10 +34,13 @@ include_once('header.php');
     <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810583547353366558/Treehouse_FSJS_Profile_crop.jpg" alt="Randy_Img" style="width:200px;height:200px;">
     <h3>Randy Layne</h3>
     Randy Layne is a linked Bachelor/Master Computer Science
-     student at ODU and a full time Ruby on Rails developer and Snowflake SQL
-      data engineer for Treehouse. Outside of studying and working he enjoys
-       being a single dad of a wonderful 12 year young lady.</li>
-    <li><h3>Travis Bennett</h3></li>
+    student at ODU and a full time Ruby on Rails developer and Snowflake SQL 
+    data engineer for Treehouse. Outside of studying and working he enjoys 
+    being a single dad of a wonderful 12 year young lady.</li>
+    <li><img src="https://cdn.discordapp.com/attachments/808482595339894794/810890734198587432/travis.jpg" alt="Travis_Img" style="width:200px;height:200px;">
+    <h3>Travis Bennett</h3>
+    Travis Bennett is a computer science senior at ODU. In his free time he 
+    enjoys watching sports, and playing games with family.</li>
 </ul>
 
 <? # Do not change things below this line ?>
