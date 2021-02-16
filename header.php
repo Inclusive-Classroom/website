@@ -24,7 +24,7 @@
                 <a class="nav-link <?= ($PageTitle==="Reference") ? "active\" href='./reference.php'>Reference <span class='sr-only'>(current)</span>" : "\" href='./reference.php'>Reference" ?></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link <?= ($PageTitle==="Description") ? "active\" href='./description.php'>Description <span class='sr-only'>(current)</span>" : "\" href='./description.php'>Description" ?></a>
+                <a class="nav-link <?= ($PageTitle==="Presentations") ? "active\" href='./presentations.php'>Presentations <span class='sr-only'>(current)</span>" : "\" href='./presentations.php'>Presentations" ?></a>
             </li>
         </ul>
     </div>
