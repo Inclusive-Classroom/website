@@ -1,3 +1,7 @@
+body {
+    min-height: 100vh;
+}
+
 .bg-golden-yellow {
     background-color: #ffde00;
 }

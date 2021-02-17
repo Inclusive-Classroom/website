@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+<body class="bg-golden-yellow">
 <nav class="navbar navbar-expand-lg navbar-dark bg-gold-foil">
     <a class="navbar-brand" href="#">Gold Team</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,4 +29,4 @@
         </ul>
     </div>
 </nav>
-<main>
+<main class="p-5">
