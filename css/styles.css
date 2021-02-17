@@ -1,7 +1,15 @@
+body {
+    min-height: 100vh;
+}
+
 .bg-golden-yellow {
-    background-color: #ffde00;
+    background-color: #ffde00 !important;
 }
 
 .bg-gold-foil {
-    background-color: #b3a125;
+    background-color: #b3a125 !important;
+}
+
+.bg-transparent-25 {
+    background-color: rgba(255, 255, 255, 0.75);
 }
