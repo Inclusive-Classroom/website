@@ -17,6 +17,6 @@ include_once('header.php');
     </div>
 </div>
 <? # Do not change things below this line ?>
-<?
+<?php
 include_once('footer.php')
 ?>

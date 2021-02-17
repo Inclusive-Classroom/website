@@ -58,6 +58,6 @@ include_once('header.php');
     </ul>
 </div>
 <? # Do not change things below this line ?>
-<?
+<?php
 include_once('footer.php')
 ?>
