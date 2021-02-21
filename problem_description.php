@@ -14,31 +14,32 @@ include_once('header.php');
     <h1>Problem Characteristics</h1>
       <ul>
         <li>
-          <h2>Affects younger students most</h2>
+          <h3>Affects younger students most</h3>
           <p>They have not built-up study habits. Older students are more familiar with apps.</p>
         </li>
         <li>
-          <h2>Lack of technical knowledge at home</h2>
+          <h3>Lack of technical knowledge at home</h3>
           <p>Parents may not be "tech savvy". Parents may also be at work.</p>
         </li>
         <li>
-          <h2>Difficult to reach teachers</h2>
+          <h3>Difficult to reach teachers</h3>
           <p>Limited forms of contact. IT is not the teachers specialty.</p>
         </li>
         <li>
-          <h2>Lack of consistent high-speed internet at home</h2>
+          <h3>Lack of consistent high-speed internet at home</h3>
           <p>Public internet is potentionally dangerous and slow. These public wifi providers may also have time limits for when a user can be connected.</p>
         </li>
         <li>
-          <h2>COVID is not going away</h2>
+          <h3>COVID is not going away</h3>
           <p>On 1/4/2021 we had the highest number of cases in the VA. The curve is continuing to trend upwards.</p>
         </li>
       </ul>
   </div>
   <div>
     <h1>Current Process Flow Chart</h1>
+    <p>The point of intervention is during and after "Inconsistent/Bad Internet Connection"</p>
     <div id="current_process_flowchart">
-      <img src="./img/flow_chart.png" alt="Current Process Flow Chart">
+      <img class="mx-auto" id="current_process_image" src="./img/flow_chart.png" alt="Current Process Flow Chart">
     </div>
   </div>
 </div>
