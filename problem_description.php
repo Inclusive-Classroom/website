@@ -35,6 +35,12 @@ include_once('header.php');
         </li>
       </ul>
   </div>
+  <div>
+    <h1>Current Process Flow Chart</h1>
+    <div id="current_process_flowchart">
+      <img src="./img/flow_chart.png" alt="Current Process Flow Chart">
+    </div>
+  </div>
 </div>
 <? # Do not change things below this line ?>
 <?php
