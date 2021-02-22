@@ -13,3 +13,8 @@ body {
 .bg-transparent-25 {
     background-color: rgba(255, 255, 255, 0.75);
 }
+
+.card-size {
+    width: 18rem;
+    height: 100%; /*Sets standardized height for cards*/
+}
