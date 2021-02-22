@@ -26,6 +26,9 @@
             <li class="nav-item">
                 <a class="nav-link <?= ($PageTitle==="Presentations") ? "active\" href='./presentations.php'>Presentations <span class='sr-only'>(current)</span>" : "\" href='./presentations.php'>Presentations" ?></a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link <?= ($PageTitle==="Problem Description") ? "active\" href='./problem_description.php'>Problem Description <span class='sr-only'>(current)</span>" : "\" href='./problem_description.php'>Problem Description" ?></a>
+            </li>
         </ul>
     </div>
 </nav>
