@@ -9,8 +9,8 @@ include_once('header.php');
 <div class="container">
   <h1>Biographies</h1>
   <article class="row">
-    <article class="col">
-      <div class="card border-dark mb-3 card-size bg-transparent-25">
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810743154252054588/Colton.jpg" alt="Colton_Img">
         <section class="card-body">
           <h5 class="card-title">Colton Hurst</h5>
@@ -20,8 +20,8 @@ include_once('header.php');
         </section>
       </div>
     </article>
-    <article class="col">
-      <div class="card border-dark mb-3 card-size bg-transparent-25">
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810702556606496768/IMG-4434_square.jpg" alt="Dalton_Img">
         <section class="card-body">
           <h5 class="card-title">Dalton Hanbury</h5>
@@ -33,8 +33,8 @@ include_once('header.php');
         </section>
       </div>
     </article>
-    <article class="col">
-      <div class="card border-dark mb-3 card-size bg-transparent-25">
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810730405702795274/Screenshot_20210214-2328373.png" alt="Grant_Img">
         <section class="card-body">
           <h5 class="card-title">Grant Ralls</h5>
@@ -46,8 +46,8 @@ include_once('header.php');
     </article>
   </article>
   <article class="row">
-    <article class="col">
-      <div class="card border-dark mb-3 card-size bg-transparent-25">
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810720680604991538/GregPFP.png" alt="Greg_Img">
         <section class="card-body">
           <h5 class="card-title">Greg Hubbard</h5>
@@ -59,8 +59,8 @@ include_once('header.php');
         </section>
       </div>
     </article>
-    <article class="col">
-      <div class="card border-dark mb-3 card-size bg-transparent-25">
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810583547353366558/Treehouse_FSJS_Profile_crop.jpg" alt="Randy_Img">
         <section class="card-body">
           <h5 class="card-title">Randy Layne</h5>
@@ -71,8 +71,8 @@ include_once('header.php');
         </section>
       </div>
     </article>
-    <article class="col">
-      <div class="card border-dark mb-3 card-size bg-transparent-25">
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810890734198587432/travis.jpg" alt="Travis_Img">
         <section class="card-body">
           <h5 class="card-title">Travis Bennett</h5>

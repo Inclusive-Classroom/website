@@ -16,5 +16,5 @@ body {
 
 .card-size {
     width: 18rem;
-    height: 32vw; /*Sets standardized height for cards*/
+    height: 100%; /*Sets standardized height for cards*/
 }
