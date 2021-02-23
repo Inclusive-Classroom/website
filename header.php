@@ -21,10 +21,13 @@
                 <a class="nav-link <?= ($PageTitle==="Bios") ? "active\" href='./bios.php'>Bios <span class='sr-only'>(current)</span>" : "\" href='./bios.php'>Bios" ?></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link <?= ($PageTitle==="Reference") ? "active\" href='./reference.php'>Reference <span class='sr-only'>(current)</span>" : "\" href='./reference.php'>Reference" ?></a>
+                <a class="nav-link <?= ($PageTitle==="Reference") ? "active\" href='./reference.php'>References <span class='sr-only'>(current)</span>" : "\" href='./reference.php'>References" ?></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link <?= ($PageTitle==="Presentations") ? "active\" href='./presentations.php'>Presentations <span class='sr-only'>(current)</span>" : "\" href='./presentations.php'>Presentations" ?></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link <?= ($PageTitle==="Problem Description") ? "active\" href='./problem_description.php'>Problem Description <span class='sr-only'>(current)</span>" : "\" href='./problem_description.php'>Problem Description" ?></a>
             </li>
         </ul>
     </div>
