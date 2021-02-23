@@ -6,9 +6,9 @@ include_once('header.php');
 
 <? # Add custom HTML content below this line ?>
 <div class="container">
-    <h1>Reference</h1>
+    <h1>References</h1>
 
-    <ul>
+    <ol>
         <li>
             <p>“Chromebook Support.” <i>LCS</i>, www.lcsedu.net/departments/information-technology/chromebook-support.</p>
         </li>
@@ -33,7 +33,7 @@ include_once('header.php');
         <li>
             <p>“Web Applications with Spring.” <i>Spring</i>, spring.io/web-applications.</p>
         </li>
-    </ul>
+    </ol>
 </div>
 <? # Do not change things below this line ?>
 <?php

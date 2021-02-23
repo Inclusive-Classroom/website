@@ -4,10 +4,12 @@ body {
 
 .bg-golden-yellow {
   background-color: #ffde00 !important;
+  background-image: linear-gradient(#fbea79, #ffde00 80%, #b3a125);
 }
 
 .bg-gold-foil {
   background-color: #b3a125 !important;
+  background-image: linear-gradient(#fbea79, #b3a125 10%, #b3a125 90%, #625917);
 }
 
 .bg-transparent-25 {
@@ -24,6 +26,6 @@ body {
 }
 
 .card-size {
-    width: 18rem;
-    height: 100%; /*Sets standardized height for cards*/
+  width: 18rem;
+  height: 100%; /*Sets standardized height for cards*/
 }
