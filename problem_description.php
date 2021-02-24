@@ -39,7 +39,7 @@ include_once('header.php');
     <h1>Current Process Flow Chart</h1>
     <p>The point of intervention is during and after "Inconsistent/Bad Internet Connection"</p>
     <div id="current_process_flowchart">
-      <img class="mx-auto" id="current_process_image" src="./img/flow_chart.png" alt="Current Process Flow Chart">
+      <img class="mx-auto shadow" id="current_process_image" src="./img/flow_chart.png" alt="Current Process Flow Chart">
     </div>
   </div>
 </div>
