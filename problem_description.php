@@ -36,33 +36,33 @@ include_once('header.php');
       </ul>
   </div>
   <div>
-      <article class="text-center">
-          <h2 class="mt-2">Current Process Flow: Assignments</h2>
-          <div style="width: 640px; height: 480px; margin: auto;">
-              <iframe allowfullscreen
-                      mozallowfullscreen="true"
-                      webkitallowfullscreen="true"
-                      frameborder="0"
-                      style="width:640px; height:480px; margin:auto;"
-                      src="https://lucid.app/documents/embeddedchart/dd74cdd9-230f-496b-a878-bcfc3644b1c2"
-                      id="1-ngruLRLhgs">
-              </iframe>
-          </div>
-      </article
-  </div>
-<div>
     <article class="text-center">
-        <h2 class="mt-2">Current Process Flow: Live Video</h2>
-        <div style="width: 640px; height: 480px; margin: auto;">
-            <iframe allowfullscreen
-                  mozallowfullscreen="true"
-                  webkitallowfullscreen="true"
-                  frameborder="0"
-                  style="width:640px; height:480px; margin:auto;"
-                  src="https://lucid.app/documents/embeddedchart/7ee773e1-c5d7-40ae-b4cc-626973bce8b4"
-                  id="L3ngnOjD2k8P"
-            </iframe>
-        </div>
+      <h2 class="mt-2">Current Process Flow: Assignments</h2>
+      <div style="width: 640px; height: 480px; margin: auto;">
+        <iframe allowfullscreen
+              mozallowfullscreen="true"
+              webkitallowfullscreen="true"
+              frameborder="0"
+              style="width:640px; height:480px; margin:auto;"
+              src="https://lucid.app/documents/embeddedchart/dd74cdd9-230f-496b-a878-bcfc3644b1c2"
+              id="1-ngruLRLhgs">
+        </iframe>
+      </div>
+    </article
+  </div>
+  <div>
+    <article class="text-center">
+      <h2 class="mt-2">Current Process Flow: Live Video</h2>
+      <div style="width: 640px; height: 480px; margin: auto;">
+        <iframe allowfullscreen
+                mozallowfullscreen="true"
+                webkitallowfullscreen="true"
+                frameborder="0"
+                style="width:640px; height:480px; margin:auto;"
+                src="https://lucid.app/documents/embeddedchart/7ee773e1-c5d7-40ae-b4cc-626973bce8b4"
+                id="L3ngnOjD2k8P"
+        </iframe>
+      </div>
     </article>
   </div>
 </div>
