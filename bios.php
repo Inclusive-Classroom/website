@@ -14,6 +14,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810743154252054588/Colton.jpg" alt="Colton_Img">
         <section class="card-body">
           <h5 class="card-title">Colton Hurst</h5>
+          <h6 class="card-subtitle mb-2">Student App Team Lead</h6>
           <p class="card-text">Colton Hurst is a senior at ODU, completing his Computer Science degree
               while working full time as a software engineer at PDI Software. In his scarce
               free time he enjoys Rust programming, working out, and cooking tasty food.</p>
@@ -25,6 +26,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810702556606496768/IMG-4434_square.jpg" alt="Dalton_Img">
         <section class="card-body">
           <h5 class="card-title">Dalton Hanbury</h5>
+          <h6 class="card-subtitle mb-2">Web Master</h6>
           <p class="card-text">Dalton Hanbury is a Third year student at ODU studying
             for a Bachelor's in Computer Science. He's currently working part time for
             Nauticus in downtown Norfolk as a Museum Educator. When he's not doing
@@ -38,6 +40,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810730405702795274/Screenshot_20210214-2328373.png" alt="Grant_Img">
         <section class="card-body">
           <h5 class="card-title">Grant Ralls</h5>
+          <h6 class="card-subtitle mb-2">Teacher App Team Lead</h6>
           <p class="card-text">Grant Ralls is a Computer Science student at Old Dominion University and
             Software Engineer for Ferguson Enterprises. Outside of technology he enjoys
             reading and listening to music.</p>
@@ -51,6 +54,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810720680604991538/GregPFP.png" alt="Greg_Img">
         <section class="card-body">
           <h5 class="card-title">Greg Hubbard</h5>
+          <h6 class="card-subtitle mb-2">Lead Researcher</h6>
           <p class="card-text">Gregory Hubbard is a 4th year computer science student
             with a passion for learning. Currently, he works as an undergraduate research
             assistant in developing computer vision based behavioral imaging for
@@ -64,6 +68,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810583547353366558/Treehouse_FSJS_Profile_crop.jpg" alt="Randy_Img">
         <section class="card-body">
           <h5 class="card-title">Randy Layne</h5>
+          <h6 class="card-subtitle mb-2">Project Manager</h6>
           <p class="card-text">Randy Layne is a linked Bachelor/Master Computer Science
             student at ODU and a full time Ruby on Rails developer and Snowflake SQL
             data engineer for Treehouse. Outside of studying and working he enjoys
@@ -76,6 +81,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810890734198587432/travis.jpg" alt="Travis_Img">
         <section class="card-body">
           <h5 class="card-title">Travis Bennett</h5>
+          <h6 class="card-subtitle mb-2">Software Engineer</h6>
           <p class="card-text">Travis Bennett is a computer science senior at ODU. In his free time he
             enjoys watching sports, and playing games with family.</p>
         </section>
