@@ -14,7 +14,7 @@ include_once('header.php');
     <article class="text-center">
         <a href="https://docs.google.com/presentation/d/1HToH09KqrOFMsxoLpxseZQk9iCdDM9g8caeI34JiO3U/export/pdf">Download PDF version</a>
     </article>
-    <article class="text-center"> <? #Copy this format-(class="...mb-5") to maintain bottom margin on page?>
+    <article class="text-center">
         <h2 class="mt-5 mb-2">Feasibility Presentation v1.0</h2>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEvuB90VNFHVrj24Y9pZ6vVcT_3NDqQdknyl_juh0BxfCreahS6FF8NN7tGfyzXmZr8kaNonpwN6DF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </article>
