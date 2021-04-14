@@ -32,7 +32,9 @@
             <li class="nav-item">
                 <a class="nav-link <?= ($PageTitle==="Deliverables") ? "active\" href='./deliverables.php'>Deliverables <span class='sr-only'>(current)</span>" : "\" href='./deliverables.php'>Deliverables" ?></a>
             </li>
-
+            <li class="nav-item">
+                <a class="nav-link <?= ($PageTitle==="Labs") ? "active\" href='./deliverables.php'>Labs <span class='sr-only'>(current)</span>" : "\" href='./labs.php'>Labs" ?></a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link <?= ($PageTitle==="Problem Description") ? "active\" href='./problem_description.php'>Problem Description <span class='sr-only'>(current)</span>" : "\" href='./problem_description.php'>Problem Description" ?></a>
             </li>
