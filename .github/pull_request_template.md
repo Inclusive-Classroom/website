@@ -1,6 +1,6 @@
 ### Why
 
-**Trello Card:** [Name of Trello Card Title](link/to/trello/card)
+**Jira:** [Name of Jira Issue Title](link/to/jira/issue)
 
 _[Explain here why exactly we're making this change, link to issues/stories, high level rationale]_
 
