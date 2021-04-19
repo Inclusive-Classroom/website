@@ -14,7 +14,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810743154252054588/Colton.jpg" alt="Colton_Img">
         <section class="card-body">
           <h5 class="card-title">Colton Hurst</h5>
-          <h6 class="card-subtitle mb-2">Student App Team Lead</h6>
+          <h6 class="card-subtitle mb-2">API/Database Architect</h6>
           <p class="card-text">Colton Hurst is a senior at ODU, completing his Computer Science degree
               while working full time as a software engineer at PDI Software. In his scarce
               free time he enjoys Rust programming, working out, and cooking tasty food.</p>
@@ -40,7 +40,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810730405702795274/Screenshot_20210214-2328373.png" alt="Grant_Img">
         <section class="card-body">
           <h5 class="card-title">Grant Ralls</h5>
-          <h6 class="card-subtitle mb-2">Teacher App Team Lead</h6>
+          <h6 class="card-subtitle mb-2">Teacher Role Team Lead</h6>
           <p class="card-text">Grant Ralls is a Computer Science student at Old Dominion University and
             Software Engineer for Ferguson Enterprises. Outside of technology he enjoys
             reading and listening to music.</p>
@@ -81,7 +81,7 @@ include_once('header.php');
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810890734198587432/travis.jpg" alt="Travis_Img">
         <section class="card-body">
           <h5 class="card-title">Travis Bennett</h5>
-          <h6 class="card-subtitle mb-2">Software Engineer</h6>
+          <h6 class="card-subtitle mb-2">Student Role Team Lead</h6>
           <p class="card-text">Travis Bennett is a computer science senior at ODU. In his free time he
             enjoys watching sports, and playing games with family.</p>
         </section>

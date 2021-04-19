@@ -26,7 +26,7 @@
  ## Resources:
  
  * [Live site](https://www.cs.odu.edu/~410gold/)
- * [Trello](https://trello.com/b/YDrIqIJY/cs-410-team-gold)
+ * [Jira](https://inclusive-classroom.atlassian.net/jira/software/projects/GPB/boards/1)
  * [Discord](https://discord.com/channels/808472157586849823/808472157586849826)
  * [Course Outline](https://www.cs.odu.edu/~tkennedy/cs410/s21/Directory/outline/)
  
