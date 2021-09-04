@@ -1,4 +1,4 @@
-# Gold Team Spring 2021 Website
+# Gold Team Fall 2021 Website
 
 ![](https://github.com/randyL78/CS410_Team_Gold/workflows/CI/badge.svg)
 
@@ -25,10 +25,10 @@
  
  ## Resources:
  
- * [Live site](https://www.cs.odu.edu/~410gold/)
+ * [Live site](https://www.cs.odu.edu/~411gold/)
  * [Jira](https://inclusive-classroom.atlassian.net/jira/software/projects/GPB/boards/1)
  * [Discord](https://discord.com/channels/808472157586849823/808472157586849826)
- * [Course Outline](https://www.cs.odu.edu/~tkennedy/cs410/s21/Directory/outline/)
+ * [Course Outline](https://www.cs.odu.edu/~tkennedy/cs411/f21/Directory/outline/)
  
  ## Contribution instructions
  
@@ -42,7 +42,7 @@
  
  Navigate to the directory you want the repository to be downloaded to.
  ```shell script
-git clone git@github.com:randyL78/CS410_Team_Gold.git
+git clone git@github.com:Inclusive-Classroom/website.git
 ```
 
 ### Working on a new feature

@@ -2,7 +2,7 @@
 
 <footer class="navbar navbar-dark bg-dark fixed-bottom">
     <ul class="navbar-nav text-white-50" >
-        <li class="nav-item">&copy; <?= date("Y") ?> Team Gold - Spring 2021</li>
+        <li class="nav-item">&copy; <?= date("Y") ?> Team Gold - Fall 2021</li>
     </ul>
     <ul class="nav justify-content-end flex-row" >
         <li class="nav-item">
