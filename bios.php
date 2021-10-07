@@ -88,6 +88,20 @@ include_once('header.php');
       </div>
     </article>
   </article>
+  <article class="col mb-5">
+          <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
+            <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/895668739020824596/SergiyYermak.jpg" alt="Sergiy_Img">
+            <section class="card-body">
+              <h5 class="card-title">Sergiy Yermak</h5>
+              <h6 class="card-subtitle mb-2">TBD</h6>
+              <p class="card-text">Sergiy Yermak is a senior at Old Dominion University
+               and expected to graduate in December of 2021. He is working to attain a
+               Bachelor of Science in Computer Science. Before attending college he
+               served in United States Navy. He enjoys a variety of things from
+               skateboarding, diving, hiking, playing video games, and reading books.</p>
+            </section>
+          </div>
+        </article>
 </div>
 
 <? # Do not change things below this line ?>
