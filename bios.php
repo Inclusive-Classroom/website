@@ -11,6 +11,22 @@ include_once('header.php');
   <article class="row">
     <article class="col mb-5">
       <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
+        <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/895679506197651456/IMG_0780.jpg" alt="Aubrie_Img">
+          <section class="card-body">
+            <h5 class="card-title">Aubrie Davie</h5>
+            <h6 class="card-subtitle mb-2">T.B.D</h6>
+            <p class="card-text">Aubrie Davie is a senior at Old Dominion University pursuing a
+                                  Bachelor's in Computer Science with a minor in Energy
+                                  Engineering. She currently leads efforts to achieve
+                                  sustainability goals set forth by the Department of Energy at
+                                  Jefferson Lab in Newport News, Virginia. She lives with her
+                                  husband, daughter, Labrador (Curie), and her Pithuahua (Rocker)
+                                  on the James River.</p>
+          </section>
+        </div>
+      </article>
+    <article class="col mb-5">
+      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810743154252054588/Colton.jpg" alt="Colton_Img">
         <section class="card-body">
           <h5 class="card-title">Colton Hurst</h5>
@@ -35,6 +51,8 @@ include_once('header.php');
         </section>
       </div>
     </article>
+  </article>
+  <article class="row">
     <article class="col mb-5">
       <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810730405702795274/Screenshot_20210214-2328373.png" alt="Grant_Img">
@@ -47,8 +65,6 @@ include_once('header.php');
         </section>
       </div>
     </article>
-  </article>
-  <article class="row">
     <article class="col mb-5">
       <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
         <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810720680604991538/GregPFP.png" alt="Greg_Img">
@@ -75,17 +91,19 @@ include_once('header.php');
             being a single dad of a wonderful 12 year old lady.</p>
         </section>
       </div>
-    </article>
+    </article> 
+  </article>
+  <article class="row">
     <article class="col mb-5">
-      <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
-        <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810890734198587432/travis.jpg" alt="Travis_Img">
-        <section class="card-body">
-          <h5 class="card-title">Travis Bennett</h5>
-          <h6 class="card-subtitle mb-2">Student Role Team Lead</h6>
-          <p class="card-text">Travis Bennett is a computer science senior at ODU. In his free time he
-            enjoys watching sports, and playing games with family.</p>
-        </section>
-      </div>
+        <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
+          <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/810890734198587432/travis.jpg" alt="Travis_Img">
+          <section class="card-body">
+            <h5 class="card-title">Travis Bennett</h5>
+            <h6 class="card-subtitle mb-2">Student Role Team Lead</h6>
+            <p class="card-text">Travis Bennett is a computer science senior at ODU. In his free time he
+              enjoys watching sports, and playing games with family.</p>
+          </section>
+        </div>
     </article>
   </article>
 </div>
