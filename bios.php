@@ -90,7 +90,7 @@ include_once('header.php');
   </article>
   <article class="col mb-5">
       <div class="card border-dark mb-3 card-size bg-transparent-25 shadow">
-        <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/895668739020824596/SergiyYermak.jpg" alt="Sergiy_Img">
+        <img class="card-img-top" src="https://cdn.discordapp.com/attachments/808482595339894794/895692159750135869/SergiyYermak.jpg" alt="Sergiy_Img">
         <section class="card-body">
           <h5 class="card-title">Sergiy Yermak</h5>
           <h6 class="card-subtitle mb-2">TBD</h6>
