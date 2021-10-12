@@ -22,6 +22,8 @@
  * **Greg Hubbard**
  * **Randy Layne**
  * **Travis Bennett**
+ * **Aubrie Davie**
+ * **Sergiy Yermak**
  
  ## Resources:
  
