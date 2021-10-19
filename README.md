@@ -27,7 +27,7 @@
  
  ## Resources:
  
- * [Live site](https://www.cs.odu.edu/~411gold/)
+ * [Live site](https://inclusive-classroom.github.io/website/index)
  * [Jira](https://inclusive-classroom.atlassian.net/jira/software/projects/GPB/boards/1)
  * [Discord](https://discord.com/channels/808472157586849823/808472157586849826)
  * [Course Outline](https://www.cs.odu.edu/~tkennedy/cs411/f21/Directory/outline/)
